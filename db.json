@@ -1,0 +1,14 @@
+{
+   "consumption":[
+      {
+         "id":1,
+         "price":{
+            "unit":"USD",
+            "value":12.5
+         }
+      }
+   ],
+   "profile":{
+      "name":"typicode"
+   }
+}
